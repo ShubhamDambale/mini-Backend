@@ -1,0 +1,25 @@
+{
+  "name": "json-backend-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamDambale/mini-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamDambale/mini-Backend/issues"
+  },
+  "homepage": "https://github.com/ShubhamDambale/mini-Backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  }
+}
